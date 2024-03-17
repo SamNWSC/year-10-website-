@@ -1,3 +1,7 @@
+h6 {
+    font-size: 16px;
+    text-align: right;
+}
 p {
     font-size:16px;
 }
@@ -12,7 +16,7 @@ h2 {
 img {
     height: 500px;  
     width: 500px;
-    float: center
+    float: left
 }
 
 .header-img { 
@@ -27,6 +31,11 @@ img {
 body {
     text-align: center;
 }
+
+div {
+    height: 500px;
+    margin: 20px;
+}
 .Logan-Saregant {
     height: 500px;
     width: 342px;
@@ -38,4 +47,72 @@ body {
 .Pierre-Gasly {
     height: 500px;
     width: 601px;
+}
+.Valtteri-Bottas {
+    Height: 500px;
+    width: 375px; 
+}
+.Zhou-Guanyu {
+    Height:500px;
+    width: 333px;
+}
+.Kevin-Magnussen{
+    height: 500px;
+    width: 333px;
+}
+.Nico-Hulkenberg{
+    height: 500px;
+    width: 333px;
+}
+.Yuki-Tsunoda{
+    height: 500px;
+    width: 375px;
+}
+.Alex-Albon{
+    height: 500px;
+    width: 333px;
+}
+.Lance-Stroll{
+    height: 500px;
+    width: 333px;
+}
+.Daniel-Riccardo{
+    height: 500px;
+    width: 333px;
+}
+.Fernando-Alonso{
+    height: 500px;
+    width: 750px;
+}
+.Lewis-Hamilton{
+    height: 500px;
+    width: 375px;
+}
+.Oscar-Piastri{
+    height:500px;
+    width: 375px;
+}
+.George-Russell{
+    height: 500px;
+    width: 421px;
+}
+.Lando-Norris{
+    height: 500px;
+    width: 500px;
+}
+.Charles-Leclerc{
+    height: 500px;
+    width: 332px;
+}
+.Sergio-Perez{
+    height: 500px;
+    width: 333px;
+}
+.Carlos-Sainz{
+    height: 500px;
+    width: 333px;
+}
+.Max-Verstappen{
+    height: 500px;
+    width: 377px;
 }
