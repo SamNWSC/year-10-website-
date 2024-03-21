@@ -1,5 +1,10 @@
+
+body {
+    text-align: center;
+    max-width: 1920px;
+}
 h6 {
-    font-size: 16px;
+    font-size: 20px;
     text-align: right;
 }
 p {
@@ -8,6 +13,7 @@ p {
 
 h1 {
     text-align: center;
+
 }
 h2 {
     text-align: center;
@@ -18,6 +24,9 @@ img {
     width: 500px;
     float: left
 }
+h3 {
+    font-size: 50px;
+}
 
 .header-img { 
     height: 35px;
@@ -27,9 +36,6 @@ img {
 
 .header-img-text {
     size-adjust: 10px;
-}
-body {
-    text-align: center;
 }
 
 div {
@@ -82,7 +88,7 @@ div {
 }
 .Fernando-Alonso{
     height: 500px;
-    width: 750px;
+    width: 476px;
 }
 .Lewis-Hamilton{
     height: 500px;
